@@ -1,1 +1,3 @@
-python3 -m src.main "/static-site-generator.github.io/"
+#!/usr/bin/env bash
+
+python3 -m src.main "/"
